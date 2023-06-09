@@ -30,15 +30,15 @@ The KBY-AI Face Recognition SDK has achieved high ranking in NIST FRVT 1:1 bench
 
 ## Face Recognition SDK(Windows, Linux)
 
-  | Windows      | Linux |
-  |------------------|------------------|
-  | Face Detection        | Face Detection    |
-  | Face Recognition        | Face Recognition    |
-  | Pose Estimation        | Pose Estimation    |
-  | Face Quality Calculation        | Face Quality Calculation    |
-  | Face Occlusion Detection        | Face Occlusion Detection        |
-  | Eye Closeness Detection        | Eye Closeness Detection        |
-  | 68 points Face Landmark Detection        | 68 points Face Landmark Detection        |
+  | Features      |
+  |------------------|
+  | Face Detection        |
+  | Face Recognition        |
+  | Pose Estimation        |
+  | Face Quality Calculation        |
+  | Face Occlusion Detection        |
+  | Eye Closeness Detection        |
+  | 68 points Face Landmark Detection        |
   
 > For demo projects, please explore the following:
 - [FaceRecognition-Docker](https://github.com/kby-ai/FaceRecognition-Docker)
