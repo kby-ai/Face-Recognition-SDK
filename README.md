@@ -7,7 +7,7 @@
 ## Introduction
 The KBY-AI Face Recognition SDK has achieved high ranking in NIST FRVT 1:1 benchmark due to its lightweight design and exceptional performance in accuracy, speed, storage, and memory.
 
-## Face Recognition SDK(Android, iOS)
+## Face Recognition SDK(Mobile)
 
   | Basic      | Standard | Premium |
   |------------------|------------------|------------------|
@@ -28,7 +28,7 @@ The KBY-AI Face Recognition SDK has achieved high ranking in NIST FRVT 1:1 bench
 > - [Face Attribute - Android(Premium SDK)](https://github.com/kby-ai/FaceAttribute-Android)
 > - [Face Attribute - iOS(Premium SDK)](https://github.com/kby-ai/FaceAttribute-iOS)
 
-## Face Recognition SDK(Windows, Linux)
+## Face Recognition SDK(Server)
 
   | Features      |
   |------------------|
