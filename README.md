@@ -27,11 +27,16 @@ Help Center: https://docs.kby-ai.com
   |         |         | Age, Gender Estimation |
 
 > For demo projects, please explore the following:
-> - [Face Recognition - Android(Standard SDK)](https://github.com/kby-ai/FaceRecognition-Android)
-> - [Face Recognition - iOS(Standard SDK)](https://github.com/kby-ai/FaceRecognition-iOS)
-> - [Face Recognition - Flutter(Standard SDK)](https://github.com/kby-ai/FaceRecognition-Flutter)
-> - [Face Attribute - Android(Premium SDK)](https://github.com/kby-ai/FaceAttribute-Android)
-> - [Face Attribute - iOS(Premium SDK)](https://github.com/kby-ai/FaceAttribute-iOS)
+> 
+> [Face Recognition - Android(Standard SDK)](https://github.com/kby-ai/FaceRecognition-Android)
+> 
+> [Face Recognition - iOS(Standard SDK)](https://github.com/kby-ai/FaceRecognition-iOS)
+> 
+> [Face Recognition - Flutter(Standard SDK)](https://github.com/kby-ai/FaceRecognition-Flutter)
+> 
+> [Face Attribute - Android(Premium SDK)](https://github.com/kby-ai/FaceAttribute-Android)
+> 
+> [Face Attribute - iOS(Premium SDK)](https://github.com/kby-ai/FaceAttribute-iOS)
 
 ## Face Recognition SDK(Windows, Linux)
 
@@ -46,8 +51,10 @@ Help Center: https://docs.kby-ai.com
   | 68 points Face Landmark Detection        |
   
 > For demo projects, please explore the following:
-- [FaceRecognition-Docker](https://github.com/kby-ai/FaceRecognition-Docker)
-- [FaceRecognition-Windows](https://github.com/kby-ai/FaceRecognition-Docker)
+> 
+> [FaceRecognition-Docker](https://github.com/kby-ai/FaceRecognition-Docker)
+> 
+> [FaceRecognition-Windows](https://github.com/kby-ai/FaceRecognition-Docker)
 
 ## Try Online
 https://web.kby-ai.com
