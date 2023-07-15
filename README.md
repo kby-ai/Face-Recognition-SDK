@@ -33,7 +33,9 @@ Help Center: https://docs.kby-ai.com
 > [Face Recognition - iOS(Standard SDK)](https://github.com/kby-ai/FaceRecognition-iOS)
 > 
 > [Face Recognition - Flutter(Standard SDK)](https://github.com/kby-ai/FaceRecognition-Flutter)
-> 
+>
+> [Face Recognition - React-Native(Standard SDK)](https://github.com/kby-ai/FaceRecognition-React-Native)
+>
 > [Face Attribute - Android(Premium SDK)](https://github.com/kby-ai/FaceAttribute-Android)
 > 
 > [Face Attribute - iOS(Premium SDK)](https://github.com/kby-ai/FaceAttribute-iOS)
