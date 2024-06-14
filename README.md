@@ -9,6 +9,11 @@
 ## Overview
 The KBY-AI Face Recognition SDK has achieved high ranking in NIST FRVT 1:1 benchmark due to its lightweight design and exceptional performance in accuracy, speed, storage, and memory.
 
+## Performance Video
+
+You can visit our YouTube video [here](https://www.youtube.com/watch?v=M7t_dpT-hOI) to see how well our demo app works.</br></br>
+[![Face Recognition](https://img.youtube.com/vi/M7t_dpT-hOI/0.jpg)](https://www.youtube.com/watch?v=M7t_dpT-hOI)
+
 ## Documents
 Help Center: https://docs.kby-ai.com
 
