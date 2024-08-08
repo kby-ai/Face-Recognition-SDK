@@ -63,24 +63,6 @@ Help Center: https://docs.kby-ai.com
 > 
 > [FaceRecognition-Windows](https://github.com/kby-ai/FaceRecognition-Docker)
 
-## Face Recognition SDK(Javascript)
-
-  | Features      |
-  |------------------|
-  | Face Detection        |
-  | Face Landmark Detection        |
-  | Face Pose Estimation        |
-  | Face Liveness Detection        |
-  | Face Expression Estimation        |
-  | Eye Closeness Detection        |
-  | Face Feature Extraction        |
-  | Age and Gender Detection  |  
-> For demo projects, please explore the following:
-> 
-> [FaceRecognition-Vue](https://github.com/kby-ai/FaceRecognition-Vue)
-> 
-> [FaceRecognition-React](https://github.com/kby-ai/FaceRecognition-React)
-
 ## Try Online
 https://web.kby-ai.com
 
