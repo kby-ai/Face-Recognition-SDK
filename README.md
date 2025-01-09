@@ -101,6 +101,6 @@ https://web.kby-ai.com
 🧙`Telegram:` [@kbyai](https://t.me/kbyai)</br>
 🧙`WhatsApp:` [+19092802609](https://wa.me/+19092802609)</br>
 🧙`Skype:` [live:.cid.66e2522354b1049b](https://join.skype.com/invite/OffY2r1NUFev)</br>
-🧙`Facebook:` https://www.facebook.com/KBYAI</br>
+🧙`Discord:` [KBY-AI](https://discord.gg/CgHtWQ3k9T)</br>
 
 [![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fkby-ai%2FFace-Recognition-SDK&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fkby-ai%2FFace-Recognition-SDK)
